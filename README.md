@@ -30,6 +30,10 @@ Both the above problems are solved with [WebDrop](https://WebDrop.Space). Simply
 
 ### Development
 
+- `yarn install`
+- `yarn serve`
+- `run replit`
+
 Clone the repo and do :
 
 ```
